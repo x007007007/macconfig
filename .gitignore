@@ -1,0 +1,17 @@
+Downloads/
+Applications/
+Desktop/
+Documents/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+VirtualBox VMs/
+workspace/
+.CFUserTextEncoding
+.DS_Store
+.PyCharm40/
+.bash_history
+.ssh/
+.viminfo
