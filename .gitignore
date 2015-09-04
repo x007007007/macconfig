@@ -1,3 +1,4 @@
+.*
 Downloads/
 Applications/
 Desktop/
@@ -15,3 +16,4 @@ workspace/
 .bash_history
 .ssh/
 .viminfo
+.gitconfig
