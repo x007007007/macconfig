@@ -14,7 +14,7 @@ foo_get_dir_file_strlist(){
     return 0
 }
 foo_change_python_env(){
-    source=${HOME}/.virtualenv/$1/bin/activate
+    source=${HOME}/.virtualenvs/$1/bin/activate
     complete -W "$(foo_get_dir_file_strlist ${HOME}/.virtualenv/)" foo_change_python_env
     if [[ -f "$source" ]] ;then
         source $source
