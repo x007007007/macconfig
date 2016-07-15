@@ -18,4 +18,6 @@ source ~/.vim/vimrc.vundle.list
 endif
 
 
+let g:airline#extensions#tabline#enabled = 1
+let g:Powerline_symbols = 'fancy'
 
